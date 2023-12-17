@@ -18,7 +18,7 @@ Swarm-Merging, SwarMer, is a decentralized framework to localize Flying Light Sp
 BibTex:
 ```
 @inproceedings{10.61981/ZFSH2302,
-author = {Alimohammadzadeh Hamed and Ghandeharizadeh, Shahram}, 
+author = {Alimohammadzadeh, Hamed and Ghandeharizadeh, Shahram}, 
 title = {{SwarMer: A Decentralized Localization Framework for Flying Light Specks}},
 year = {2023}, 
 publisher = {Mitra LLC}, 

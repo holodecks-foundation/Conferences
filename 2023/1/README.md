@@ -18,7 +18,7 @@ Today's robotic laboratories for drones are housed in a large room.  At times, t
 BibTex:
 ```
 @inproceedings{10.61981/ZFSH2301,
-author = {Alimohammadzadeh Hamed and Bernard Rohit and Chen Yang and Phan Trung and Singh Prashant and Zhu Shuqin and Culbertson Heather and Ghandeharizadeh, Shahram}, 
+author = {Alimohammadzadeh, Hamed and Bernard, Rohit and Chen, Yang and Phan, Trung and Singh, Prashant and Zhu, Shuqin and Culbertson, Heather and Ghandeharizadeh, Shahram},
 title = {{Dronevision: An Experimental 3D Testbed for Flying Light Specks}},
 year = {2023}, 
 publisher = {Mitra LLC}, 
