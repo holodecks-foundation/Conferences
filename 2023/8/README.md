@@ -1,6 +1,6 @@
 # Towards a Stable 3D Physical Human-Drone Interaction
 
-**Author:** Hang Qiu
+**Author:** Yang Chen, Hamed Alimohammadzadeh, Shahram Ghandeharizadeh, Heather Culbertson
 
 [PDF](./TowardsStableInter.pdf)
 
@@ -13,7 +13,8 @@ Key requirements of physical human-drone interactions are that the system is sta
 
 # Citation
 
-1. Hang Qiu.  Towards a Stable 3D Physical Human-Drone Interaction.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, 27-28.  https://doi.org/10.61981/ZFSH2308
+1. Yang Chen, Hamed Alimohammadzadeh, Shahram Ghandeharizadeh, and Heather Culbertson.  Towards a Stable 3D Physical Human-Drone Interaction.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, 34-37.  https://doi.org/10.61981/ZFSH2308
+
 
 BibTex:
 ```
