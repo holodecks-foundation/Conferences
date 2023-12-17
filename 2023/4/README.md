@@ -28,8 +28,8 @@ url = {https://doi.org/10.61981/ZFSH2304},
 doi = {10.61981/ZFSH2304}, 
 abstract = {This paper provides a preliminary overview of different forms of reality, comparing and contrasting them with one another.  It argues the definition of the term "reality" is ambiguous.  This motivates an internalization of elements from a technology standpoint, e.g., biological, 3D printed, Flying Light Speck illuminations, etc.},
 booktitle = {The First International Conference on Holodecks}, 
-numpages = {4}, 
-pages = {34--37},
+numpages = {3}, 
+pages = {38--40},
 location = {Los Angeles, California}, 
 series = {Holodecks '23} 
 }
