@@ -2,7 +2,7 @@
 
 **Author:** Shuqin Zhou and Shahram Ghandeharizadeh
 
-[PDF](./landing.pdf)
+[PDF](./LandingPatterns.pdf)
 
 The First International Conference on Holodecks, December 15 2023, Pages 29-33, https://doi.org/10.61981/ZFSH2303
 
