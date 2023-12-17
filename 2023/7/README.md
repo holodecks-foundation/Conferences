@@ -4,7 +4,7 @@
 
 [PDF](./OrchInteractive3D.pdf)
 
-The First International Conference on Holodecks, December 15 2023, Article No.: 7, Pages 27-28, https://doi.org/10.61981/ZFSH2307
+The First International Conference on Holodecks, December 15 2023, Pages 27-28, https://doi.org/10.61981/ZFSH2307
 
 Published:  15 December 2023
 
@@ -13,7 +13,7 @@ The Flying Light Speck (FLS) is a compact drone designed with versatile light so
 
 # Citation
 
-1. Hang Qiu.  Orchestrating an Interactive 3D Holodeck.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, Article 7, 27-28.  https://doi.org/10.61981/ZFSH2307
+1. Hang Qiu.  Orchestrating an Interactive 3D Holodeck.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, 27-28.  https://doi.org/10.61981/ZFSH2307
 
 BibTex:
 ```
@@ -27,7 +27,6 @@ url = {https://doi.org/10.61981/ZFSH2307},
 doi = {10.61981/ZFSH2307}, 
 abstract = {Enabling an interactive 3D holodeck poses significant challenges in the networking of thw swarm, due to the density and latency requirements. In this paper, we envision an orchestration mechanism using visible light communication and dynamic clustering for actuation.},
 booktitle = {The First International Conference on Holodecks}, 
-articleno = {7}, 
 numpages = {2}, 
 pages = {27--28},
 location = {Los Angeles, California}, 
