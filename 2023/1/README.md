@@ -2,6 +2,8 @@
 
 **Author:** Hamed Alimohammadzadeh, Rohit Bernard, Yang Chen, Trung Phan, Prashant Singh, Shuqin Zhu, Heather Culbertson, Shahram Ghandeharizadeh
 
+[PDF](./Dronevision.pdf)
+
 The First International Conference on Holodecks, December 15 2023, Article No.: 1, Pages 1-9, https://doi.org/10.61981/ZFSH2301
 
 Published:  15 December 2023
