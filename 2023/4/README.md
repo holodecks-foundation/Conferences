@@ -2,7 +2,7 @@
 
 **Author:** Shahram Ghandeharizadeh, Vincent Oria
 
-[PDF](./.XRholo.pdf)
+[PDF](./XRholo.pdf)
 
 The First International Conference on Holodecks, December 15 2023, Pages 38-40, https://doi.org/10.61981/ZFSH2304
 
