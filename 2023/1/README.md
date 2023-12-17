@@ -11,7 +11,7 @@ Today's robotic laboratories for drones are housed in a large room.  At times, t
 
 # Citation
 
-1. Hamed Alimohammadzadeh, Rohit Bernard, Yang Chen, Trung Phan, Prashant Singh, Shuqin Zhu, Heather Culbertson, and Shahram Ghandeharizadeh.  Dronevision: An Experimental 3D Testbed for Flying Light Specks.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, Article 2, 1-9.  https://doi.org/10.61981/ZFSH2301
+1. Hamed Alimohammadzadeh, Rohit Bernard, Yang Chen, Trung Phan, Prashant Singh, Shuqin Zhu, Heather Culbertson, and Shahram Ghandeharizadeh.  Dronevision: An Experimental 3D Testbed for Flying Light Specks.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, Article 1, 1-9.  https://doi.org/10.61981/ZFSH2301
 
 BibTex:
 ```
