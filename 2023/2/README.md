@@ -27,7 +27,7 @@ abstract = {Swarm-Merging, SwarMer, is a decentralized framework to localize Fly
 booktitle = {The First International Conference on Holodecks}, 
 articleno = {2}, 
 numpages = {13}, 
-pages = {10-22},
+pages = {10--22},
 location = {Los Angeles, California}, 
 series = {Holodecks '23} 
 }

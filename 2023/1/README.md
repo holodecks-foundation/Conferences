@@ -27,7 +27,7 @@ abstract = {Today's robotic laboratories for drones are housed in a large room. 
 booktitle = {The First International Conference on Holodecks}, 
 articleno = {1}, 
 numpages = {9}, 
-pages = {1-9},
+pages = {1--9},
 location = {Los Angeles, California}, 
 series = {Holodecks '23} 
 }
