@@ -2,7 +2,7 @@
 
 **Author:** Hamed Alimohammadzadeh, Shahram Ghandeharizadeh
 
-[PDF](./SwarMer.pEnablingPhyLinkFLSdf)
+[PDF](./SwarMer.pdf)
 
 The First International Conference on Holodecks, December 15 2023, Article No.: 2, Pages 10-22, https://doi.org/10.61981/ZFSH2302
 
