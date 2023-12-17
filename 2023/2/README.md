@@ -2,7 +2,7 @@
 
 **Author:** Hamed Alimohammadzadeh, Shahram Ghandeharizadeh
 
-The First International Conference on Holodecks, December 15 2023, Article No.: 2, Pages 8-21, https://doi.org/10.61981/ZFSH2302
+The First International Conference on Holodecks, December 15 2023, Article No.: 2, Pages 10-22, https://doi.org/10.61981/ZFSH2302
 
 Published:  15 December 2023
 
@@ -11,7 +11,7 @@ Swarm-Merging, SwarMer, is a decentralized framework to localize Flying Light Sp
 
 # Citation
 
-1. Hamed Alimohammadzadeh and Shahram Ghandeharizadeh.  SwarMer: A Decentralized Localization Framework for Flying Light Specks.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, Article 2, 8-21.  https://doi.org/10.61981/ZFSH2302
+1. Hamed Alimohammadzadeh and Shahram Ghandeharizadeh.  SwarMer: A Decentralized Localization Framework for Flying Light Specks.  In the Proceedings of the First International Conference on Holodecks (Holodecks '23), December 15 2023, Los Angeles, California, USA, Article 2, 10-22.  https://doi.org/10.61981/ZFSH2302
 
 BibTex:
 ```
@@ -27,6 +27,7 @@ abstract = {Swarm-Merging, SwarMer, is a decentralized framework to localize Fly
 booktitle = {The First International Conference on Holodecks}, 
 articleno = {2}, 
 numpages = {13}, 
+pages = {10-22},
 location = {Los Angeles, California}, 
 series = {Holodecks '23} 
 }
