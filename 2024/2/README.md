@@ -27,8 +27,8 @@ url = {https://doi.org/10.61981/ZFSH2402},
 doi = {10.61981/ZFSH2402}, 
 abstract = {Emerging applications with Flying Light Specks (FLS) require efficient network traffic exchange among nodes. To evaluate the suitability of various wireless technologies and configurations for specific applications, we designed and developed NS-FLS, a platform that allows researchers to test FLS mobility, traffic patterns, network configurations, and gather statistical performance metrics.  We build NS-FLS on ns-3 and build graphical interfaces for user-friendly operation.  We validated NS-FLS with traces from a real FLS application, demonstrating its capacity to assess network performance.},
 booktitle = {The Second International Conference on Holodecks}, 
-numpages = {8}, 
-pages = {17--25},
+numpages = {5}, 
+pages = {12--16},
 location = {Los Angeles, California}, 
 series = {Holodecks '24} 
 }
